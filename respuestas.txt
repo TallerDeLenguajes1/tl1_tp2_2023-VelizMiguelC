@@ -1,1 +1,3 @@
 2)F No no se puede ver el archivo porque cambiamos el branch
+Hubo cambios en la grafica apareciendo lo hecho recientemente
+Se actualizaron los cambios hecho en la grafica
